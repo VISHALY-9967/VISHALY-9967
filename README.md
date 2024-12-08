@@ -22,7 +22,7 @@ I'm an enthusiastic **Full Stack Developer**. I have a passion for building inno
   - **Tech Stack**: JavaScript, Python, Django, ROUGE evaluation metric.  
 
 💻 **Skills**  
-- **Languages**: C++, Python, JavaScript,  
+- **Languages**: Python, JavaScript,  
 - **Developer Tools**: Git, GitHub  
 - **Technologies/Frameworks**: Node.js, Express.js, React.js  
 - **Others**: Firebase, Netlify , SQL 
