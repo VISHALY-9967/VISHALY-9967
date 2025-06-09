@@ -1,60 +1,24 @@
-# 👋 Hi, I’m Vishal Yadav
-
-🚀 **About Me**  
-I'm an enthusiastic **Full Stack Developer**. I have a passion for building innovative solutions, exploring cutting-edge technologies, and solving complex problems.
-
-🎓 **Education**  
-- **St. Francis Institute of Technology** | Information Technology | 2020-2024  
-  - Specialization: **Data Science**  
-  - **CGPA:** 8.7  
-- **Abhinav Vidya Mandir College** | H.S.C. - Science & IT | 2018-2020
-  - **PERCENTAGE:** 81
-- **St. Aloysius English High School** | S.S.C.| 2017-2018
-  - **PERCENTAGE:** 90   
-
-💼 **Work Experience**  
-- **Full Stack Web Development Intern** at Cere Labs, Scriptify (08/2023 – 05/2024)  
-  - **Key Contributions**:  
-    - Developed an automated system to extract action items from meeting transcriptions using the **Llama-2** model.  
-    - Enhanced extraction accuracy with fine-tuning techniques (Parameter-efficient & Supervised fine-tuning).  
-    - Achieved **ROUGE precision: 63%** and **recall: 81%**, surpassing benchmarks like pretrained Llama-2.  
-    - Published results in **IEEE Bombay Section**, presented at the **4th Asian Conference on Innovation in Technology (ASIANCON)** in August 2024.  
-  - **Tech Stack**: JavaScript, Python, Django, ROUGE evaluation metric.  
-
-💻 **Skills**  
-- **Languages**: Python, JavaScript,  
-- **Developer Tools**: Git, GitHub  
-- **Technologies/Frameworks**: Node.js, Express.js, React.js  
-- **Others**: Firebase, Netlify , SQL 
-
-🛠️ **Projects Undertaken**  
-- **Vibe Music Player**  
-  - Enhanced an open-source music player with Firebase authentication, real-time streaming, multi-language search, and user profiles.  
-  - Deployed a fully responsive web app with MP3 download capabilities using **React.js** and **Firebase**.  
-
-- **Home Quarantine COVID Medicine Prescriber**  
-  - Designed a role-based access system for doctors and patients to manage appointments, prescriptions, and diet recommendations.  
-  - Integrated **Razorpay** for secure payment processing.  
-  - **Tech Stack**: Python, Pycharm  
-
-🏆 **Accomplishments**  
-- Secured **3rd place** among 50+ teams in the Colloquium Event for **Scriptify**.  
-- Won a **consolation prize** among 32 teams for developing the **Home Quarantine COVID Medicine Prescriber** during Wave-IT in Pandemic.  
-- Served as **Sports Executive** for IRIS 2023, coordinating various sports events.  
-
-📫 **How to Reach Me**  
-- 📧 **Email**: [vishalyadav91665@gmail.com](mailto:vishalyadav91665@gmail.com)  
-- 📱 **Phone**: +91 9967955872  
-- 💻 **GitHub**: [VISHALY-9967](https://github.com/VISHALY-9967)  
-- 🔗 **LinkedIn**: [Vishal Yadav](https://www.linkedin.com/in/vishal-tech/)
-
-😄 **Pronouns**: He/Him  
-⚡ **Fun Fact**: I'm great at solving puzzles and love figuring out new products or tools through experimentation.  
-
-✨ Let's connect and collaborate on exciting projects!
+# 💫 About Me:
+👨‍💻 About Me<br>Hi there! I'm Vishal Yadav, a tech-driven individual with a strong base in Full Stack Development and an evolving passion for Cybersecurity. Currently pursuing a specialized Cybersecurity Training Program at Tata STRIVE (TCS), I’m focused on mastering modern security concepts, tools, and real-world problem-solving in the cyber domain.<br><br>🔍 I love dissecting systems, finding flaws, and crafting secure, efficient solutions. Whether it’s web automation or network security, I thrive on continuous learning and innovation.<br><br>🚀 Current Focus<br>🎓 Cybersecurity Training @ Tata STRIVE (TCS) | April – August 2025<br>📌 Training Includes:<br><br>🔐 Network Security & Packet Analysis (Wireshark, TCP/IP)<br><br>🛡️ Web App Security (OWASP Top 10, Burp Suite)<br><br>🐧 Linux Hardening & OS-level defense<br><br>🔍 Vulnerability Assessment & Reporting<br><br>🧠 Real-world Cyber Labs & Case Studies<br><br>💼 Goal: Build a specialized career in Cybersecurity – SOC Analyst, Penetration Testing, or AppSec Engineer.<br><br>💡 Tech & Security Skill Set<br>🧑‍💻 Programming & Dev:<br>💻 Languages: Python 🐍, JavaScript ⚙️, Bash 🐚<br><br>🖥️ Frameworks/Tools: React.js ⚛️, Django 🌐, Firebase 🔥<br><br>🌐 DevOps/Hosting: Git & GitHub 🧬, Netlify 🚀<br><br>🔐 Cybersecurity Tools & Concepts:<br>🧪 Testing Tools: Burp Suite, Nmap, Metasploit, Wireshark<br><br>🌍 Security Domains: OWASP Top 10, XSS, SQLi, Authentication Security<br><br>🐧 Environments: Kali Linux, Ubuntu, Windows<br><br>📊 Log & Monitoring: Basic SIEM concepts, Log Analysis<br><br>⚙️ System Fundamentals: Operating Systems, Networking Protocols, Linux Permissions<br><br>🏆 Achievements & Projects<br>🥉 3rd Place at Colloquium (Scriptify: LLM-based Meeting Action Item Extractor)<br><br>🎖️ Consolation Prize for COVID Medicine Prescriber Web App at Wave-IT<br><br>🏀 Sports Executive at IRIS 2023 – Managed and coordinated inter-college events<br><br>📫 Let's Connect<br>📧 Email: vishalyadav91665@gmail.com<br>📱 Phone: +91 99679 55872<br>💻 GitHub: VISHALY-9967<br>🔗 LinkedIn: Vishal Yadav<br>🧩 Fun Fact: I love solving logic puzzles & experimenting with new tools!
 
 
-<!---
-VISHALY-9967/VISHALY-9967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-tech/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalyadav91665@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VISHALY-9967&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VISHALY-9967&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALY-9967&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VISHALY-9967&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VISHALY-9967&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
